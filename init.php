@@ -66,5 +66,3 @@ function changeVat($orderId, &$fields, &$orderFields, $isNew) {
         }
     }   
 }
-
-?>
